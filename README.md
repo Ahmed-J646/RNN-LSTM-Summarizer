@@ -13,7 +13,7 @@ Demo
 Getting Started
 1. Clone the Repository
 
-git clone https://github.com/yourusername/lstm-text-generator.git
+git clone https://github.com/Ahmed-J646/RNN-LSTM-Summarizer.git
 cd lstm-text-generator
 2. Install Dependencies
 Make sure you have Python 3.8+ installed. Then, install the required Python packages:
